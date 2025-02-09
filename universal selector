@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>learning css</title>
+    <style type="text/css"> 
+    
+    *{
+        background-color: rgb(205, 152, 44);
+        font-family: fantasy;
+    }
+
+    </style>
+</head>
+<body>
+    <h1>This is h1</h1>
+
+    <p>This is a paragraph 1</p>
+    <p>This is a paragraph 2</p>
+    <p>This is a paragraph 3</p>
+</body>
+</html>
