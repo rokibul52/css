@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Learning css</title>
+        <style type="text/css">
+            #section1 {
+                background-color: rgb(218, 218, 104);
+            }
+            #section1 h1{
+                color: azure;
+            }
+            #section1 p{
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+           
+        </style>
+    </head>
+    <body>
+        <div id="section1">
+            <h1>I am Md Rokibul Islam chonchol</h1>
+            <p>I am a student of Daffodil International University</p>
+
+        </div>
+
+    </body>
+</html>
