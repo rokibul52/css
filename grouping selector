@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>learning css</title>
+    <style type="text/css"> 
+    
+    h1,h2,p{
+        background-color:red;
+        font-family: fantasy;
+        color:white;
+    }
+
+    </style>
+</head>
+<body>
+    <h1>This is h1</h1>
+    <h2>This is h2</h2>
+
+    <p>This is a paragraph 1</p>
+    <p>This is a paragraph 2</p>
+    <p>This is a paragraph 3</p>
+</body>
+</html>
