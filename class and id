@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Learning Css</title>
+    <style type="text/css">     <! class start from (.) and use no limited time.>
+        .heading-style{
+            color: green;
+            font-size: 70%;
+        }
+        #para-style{            <! id start from # and use in code only one time>
+            color:red;
+            font-size: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 class="heading-style"> I am from Bangladesh</h1>
+    <h1> I am a student</h1>
+    <p id="para-style">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    </p>
+</body>
+</html>
+
+          
+       
